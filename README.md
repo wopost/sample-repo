@@ -1,3 +1,3 @@
 # sample-repo
 # Hello , Git
-update test
+Update test
